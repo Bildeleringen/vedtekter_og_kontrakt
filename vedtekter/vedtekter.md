@@ -2,7 +2,7 @@
 VEDTEKTER for Bildeleringen SA
 ================================================================================
 
-_Vedtatt ved ordinært andelseiermøte 28. april 2016_
+_Vedtatt ved ordinært andelseiermøte 22. april 2015_
 
 ## 1. ORGANISASJON ##
 
@@ -16,9 +16,9 @@ Laget skal bidra til å redusere antall biler og bilbruk generelt i samfunnet. L
 
 ### 3a. PRIVATMEDLEMSKAP ###
 
-Medlemskap i Bildeleringen er åpent for alle som er over 20 år og som ikke tidligere har blitt nektet forsikringsdekning for bil av et forsikringsselskap. Personer dømt evt. gitt påtaleunnlatelse for overtredelse av vegtrafikkloven § 22 kan kun bli medlemmer etter styrets godkjennelse. Hver andelseier tegner en andel, men står fritt til å tegne seg for flere. Ved utmelding går andelen tilbake til bildeleringen og andelsinnskuddet tilbakebetales. Andelsinnskuddet er kr. 6.000. I tillegg kreves et depositum for bilbruk på Kr. 1.000. Innskudd og depositum betales tilbake ved utmelding og forrentes ikke. Bildeleringen kan også kreve ekspedisjonsgebyr ved inn- og utmelding og en månedlig medlemsavgift.
+Medlemskap i Bildeleringen er åpent for alle som er over 20 år og som ikke tidligere har blitt nektet forsikringsdekning for bil av et forsikringsselskap. Personer dømt evt. gitt påtaleunnlatelse for overtredelse av vegtrafikkloven § 22 kan kun bli medlemmer etter styrets godkjennelse. Hver andelseier tegner en andel, men står fritt til å tegne seg for flere. Ved utmelding går andelen tilbake til bildeleringen og andelsinnskuddet tilbakebetales. Andelsinnskuddet er kr. 6.000. I tillegg kreves et depositum for bilbruk på Kr. 1.000. Innskudd og depositum betales tilbake ved utmelding og forrentes ikke. Bildeleringen krever også ekspedisjonsgebyr ved inn- og utmelding og en månedlig medlemsavgift.
 
-Hver andel gir rett til to brukere, og til bruk av to biler samtidig. Brukere tilknyttet en andel trenger ikke tilhøre samme husstand. Andelseier må underrette styret om opprettelse, endringer eller avslutning av bruker nummer to og er ansvarlig for dennes bilbruk og økonomiske forpliktelser.
+Hver andel gir rett til to brukere, og til bruk av to biler samtidig. Brukere tilknyttet en andel trenger ikke tilhøre samme husstand. Andelseier må underrette styret om opprettelse, endringer eller avslutning av bruker nummer to og er ansvarlig for dennes bilbruk og økonomiske forpliktelser. Ønskes flere brukere, må søknad om dette sendes styret, som avgjør dette etter en konkret vurdering.
 
 ### 3b. BEDRIFTMEDLEMSKAP ###
 
@@ -28,7 +28,7 @@ Hver andel gir rett til to brukere, og til bruk av to biler samtidig. Bedrifter 
 
 ## 4. RETTIGHETER OG PLIKTER ##
 
-Hver andel i Bildeleringen gir andelseieren rett å bruke Bildeleringens biler til de på enhver tid fastsatte priser og i henhold til gjeldende bilbrukskontrakt. Bilbrukskontrakten regulerer Bildeleringens og andelseiers rettigheter og forpliktelser og kan endres ved simpelt flertall på andelseiermøtet. Faktisk bilbruk blir belastet andelseierne.
+Hver andel i Bildeleringen gir andelseieren rett å bruke Bildeleringens biler til de på enhver tid fastsatte priser og i henhold til gjeldende bilbruksavtale. Bilbruksavtalen regulerer Bildeleringens og andelseiers rettigheter og forpliktelser og kan endres ved simpelt flertall på andelseiermøtet. Faktisk bilbruk blir belastet andelseierne månedlig på etterskudd.
 
 ## 5. INNKJØP, DRIFT, VEDLIKEHOLD OG FORSIKRING ##
 
@@ -72,7 +72,7 @@ Styret kan ansette en daglig leder til å forestå den daglige drift. Daglig led
 
 ## 10. SUSPENSJON OG EKSKLUSJON ##
 
-Andelseiere som misligholder sine forpliktelser ovenfor Bildeleringen eller bryter bilbrukskontrakten, kan suspenderes av styret inntil forholdet er rettet opp i. Ved suspensjon frafaller bruksretten til Bildeleringens biler og stemmerett ved andelseiermøtet. Andelseiere som misligholder sine forpliktelser over lengre tid eller skader Bildeleringens virksomhet eller bilpark på en klanderverdig måte, kan ekskluderes av styret. Eventuell gjeninnmelding skal behandles av styret. Styrets eksklusjon kan ankes inn for andelseiermøtet. Eventuell anke til andelseiermøtet må fremmes innen en måned etter at eksklusjonen ble bekjentgjort. Anke til andelseiermøtet gir utsettende virkning av eksklusjonsvedtaket.
+Andelseiere som misligholder sine forpliktelser ovenfor Bildeleringen, kan suspenderes av styret inntil forholdet er rettet opp i. Ved suspensjon frafaller bruksretten til Bildeleringens biler og stemmerett ved andelseiermøtet. Andelseiere som misligholder sine forpliktelser over lengre tid eller skader Bildeleringens virksomhet eller bilpark på en klanderverdig måte, kan ekskluderes av styret. Eventuell gjeninnmelding skal behandles av styret. Styrets eksklusjon kan ankes inn for andelseiermøtet. Eventuell anke til andelseiermøtet må fremmes innen en måned etter at eksklusjonen ble bekjentgjort. Anke til andelseiermøtet gir utsettende virkning av eksklusjonsvedtaket.
 
 ## 11. MOTREGNINGSRETT ##
 
