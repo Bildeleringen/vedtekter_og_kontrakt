@@ -3,3 +3,5 @@ Dette repositoriet holder vedtektene og bilbrukskontrakten til Bildeleringen SA 
 
 
 # Endringslogg #
+
+- 4. juni 2016: Opprettet repository
