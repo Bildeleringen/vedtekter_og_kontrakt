@@ -12,3 +12,4 @@ Dette repositoriet holder vedtektene og bilbrukskontrakten til Bildeleringen SA 
 # Historikk-endringer #
 
 - 10. juli 2016: Legger inn vedtektene fra 2015 i historikken.
+- 10. juli 2016: Legger inn bilbrukskontrakt fra 2015 i historikken.
