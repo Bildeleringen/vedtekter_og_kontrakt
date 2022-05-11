@@ -1,7 +1,7 @@
 BILBRUKSKONTRAKT, Bildeleringen SA
 ==================================
 
-_Vedtatt ved ordinært andelseiermøte 27. mai 2021_
+_Vedtatt ved ordinært andelseiermøte 27. april 2022_
 
 Bilbrukskontrakten regulerer forholdet mellom andelseier / sjåfør og
 Bildeleringen. Brudd på Bilbrukskontrakten kan føre til sanksjoner fra
@@ -57,7 +57,9 @@ eventuelle erstatningskrav.
 10 Andelseier forplikter seg å behandle bilen på en forsvarlig måte og ikke:
 
 - a.   Benytte bilen i billøp, fartsprøver eller konkurranser.
-- b.   Ta bilen ut av Europa uten Bildeleringens skriftlige samtykke.
+- b.   Ta bilen ut av Europa, eller ta bilen inn i land som UD på
+       reisetidspunktet eller under reisen fraråder å reise til, uten
+       Bildeleringens skriftlige samtykke.
 - c.   Benytte bilen i ulovlig øyemed.
 - d.   Taue andre biler.
 - e.   Befordre flere personer enn bilen er registrert for.
