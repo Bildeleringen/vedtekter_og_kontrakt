@@ -2,7 +2,7 @@
 VEDTEKTER for Bildeleringen SA
 ==============================
 
-_Vedtatt ved ordinært andelseiermøte 27. mai 2020_
+_Vedtatt ved ordinært andelseiermøte 27. april 2022_
 
 ## 1. ORGANISASJON ##
 
@@ -86,11 +86,11 @@ til Bildeleringen, og utbetales ikke til medlemmene.
 
 Bildeleringens øverste organ er andelseiermøtet. Ordinært andelseiermøte skal
 finne sted hvert år senest 30.april. Alle andelseiere og brukere har møterett på
-andelseiermøtet, med det gis kun rett til en stemme pr. andel. Andelseiermøtet
-skal innkalles med 14 dagers skriftlig varsel. Andelseiermøtets dokumenter
-gjøres tilgjengelig for medlemmene gjennom Bildeleringens nettsider, senest 14
-dager før andelseiermøtet. Etter å ha valgt ordstyrer og referent(er) skal
-andelseiermøtet behandle følgende saker:
+andelseiermøtet. Hver andelseier har en stemme. Andelseiermøtet skal innkalles
+med 14 dagers skriftlig varsel. Andelseiermøtets dokumenter gjøres tilgjengelig
+for medlemmene gjennom Bildeleringens nettsider, senest 14 dager før
+andelseiermøtet. Etter å ha valgt ordstyrer og referent(er) skal andelseiermøtet
+behandle følgende saker:
 
 - a. Godkjenne innkalling og saksliste.
 - b. Velge to personer til å underskrive protokollen.
