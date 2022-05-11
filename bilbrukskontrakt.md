@@ -1,7 +1,7 @@
 BILBRUKSKONTRAKT, Bildeleringen SA
 ==================================
 
-_Vedtatt ved ordinært andelseiermøte 27. mai 2020_
+_Vedtatt ved ordinært andelseiermøte 27. mai 2021_
 
 Bilbrukskontrakten regulerer forholdet mellom andelseier / sjåfør og
 Bildeleringen. Brudd på Bilbrukskontrakten kan føre til sanksjoner fra
@@ -11,13 +11,8 @@ Bildeleringen, i henhold til §11 i Bildeleringens vedtekter.
 
 1 Gyldig medlemskap gir bruksrett til Bildeleringens biler.
 
-2
-
-- a.   Andelseier gis adgang til å reservere biler i hht gjeldende instruks.
-- b.   I utgangspunktet er det” først i tid” -prinsippet som gjelder. Foran
-  ferier og ellers når det ansees som hensiktsmessig, kan Bildeleringen
-  likebehandle bestillinger som er er gjort innen en på forhånd annonsert
-  tidsfrist.
+2 Andelseier gis adgang til å reservere biler gjennom Bildeleringens
+bestillingssystem.
 
 ## LEIEBETINGELSER ##
 
@@ -36,14 +31,16 @@ oppstillingsplass. Andelseier er således ansvarlig for bilen selv etter at denn
 er returnert til oppstillingsplass, dersom bestillingen i bestillingssystemet
 fremdeles løper.
 
-6 Eventuell kollisjonsskade skal meldes til Bildeleringen og
-forsikringsselskapet (ved bruk av skademelding). Tyveri, brann, hærverksskader
-(også tilfeller med ukjent skadevolder), personskader eller skader på dyr skal i
-tillegg meldes til Politiet.
+6 Kollisjonsskade og andre materielle skader grunnet tyveri, brann,
+hærverksskader eller liknende skal meldes til Bildeleringen. Eventuell
+kollisjonsskade meldes også til forsikringsselskapet ved bruk av skademelding.
 
 7 Andelseier plikter å varsle Bildeleringen om skader eller tekniske feil som
-oppstår. Andelseier skal besørge bilen reparert og transportert tilbake til
-utgangsstedet i samråd med Bildeleringen.
+oppstår. Dersom det oppstår skade eller feil underveis i en reservasjon skal
+bruker, hvis Bildeleringen vurderer det nødvendig, bistå med å få brakt kjøretøy
+til reparasjon. Dersom annet ikke er avtalt med Bildeleringen, forblir brukeren
+ansvarlig for kjøretøyet inntil dette er returnert til sin faste
+oppstillingsplass.
 
 8 Andelseier er ansvarlig for skader som oppstår under leietiden frem til
 tilbakelevering, Ved brudd på den til enhver tid gjeldende bilbrukskontrakt
@@ -52,12 +49,10 @@ av/ hele erstatningsbeløpet (se eksempel på slike vilkår i bilbrukskontrakten
 pkt, 9 og pkt 10). I tillegg kan tidsleie og kostnader til administrasjon/
 transport kreves inn.
 
-9 Egenandel ved skade gjelder ikke for skader oppstått ved grov uaktsomhet, og
-der Bildeleringens forsikring ikke dekker skaden. I disse tilfellene er
-andelseier selv ansvarlig for alle utgifter på bilen, samt eventuelle
-erstatningskrav. Skader som regnes som grov uaktsomhet kan eksempelvis være, men
-er ikke begrenset til: Feilfylling av drivstoff, tilgrising av bilen innvendig,
-kjøring i ruspåvirket tilstand.
+9 Egenandelsforsikring ved skade gjelder ikke for skader oppstått ved grov
+uaktsomhet, og der Bildeleringens forsikring ikke dekker skaden. I disse
+tilfellene er andelseier selv ansvarlig for alle utgifter på bilen, samt
+eventuelle erstatningskrav.
 
 10 Andelseier forplikter seg å behandle bilen på en forsvarlig måte og ikke:
 
@@ -84,16 +79,14 @@ tilsvarende). Utlegg til drivstoff eller andre bilrelaterte utgifter som
 drivstoff, olje, vask, spylervæske, vindusviskergummi og pærer refunderes av
 bildeleringen etter dokumentasjon.
 
-13 Barnesetet skal plasseres i bagasjerommet etter bruk.
-
-14 Dersom andelshaver / sjåfør forlater bilen i en tilstand som er til ulempe
+13 Dersom andelshaver / sjåfør forlater bilen i en tilstand som er til ulempe
 for neste bruker, kreves gebyr etter enhver tid gjeldende satser. Eksempler på
 dette kan være at bruker henter bilen for tidlig, returnerer bilen for sent, tar
 feil bil, bruker bil uten gyldig bestilling, forlater bilen med lys etc på slik
 at batteriet blir utladet, eller etterlater bilen uforholdsmessig skitten eller
 luktende.
 
-15 Dyr kan kun transporteres i varebil eller i bur i lastedelen av biler der
+14 Dyr kan kun transporteres i varebil eller i bur i lastedelen av biler der
 dyretransport er tillatt. Bestillingssystemet angir for hvilke biler
 dyretransport er tillatt. Andelseier er forpliktet til en forsvarlig rengjøring
 av bilen etter dyretransport.
