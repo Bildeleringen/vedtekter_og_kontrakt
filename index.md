@@ -1,5 +1,5 @@
-Bildeleringen SA
-================
+Innhold
+=======
 
 På disse sidene finner du gjeldende vedtekter for Bildeleringen SA, samt gjeldende Bilbrukskontrakt. Vedtektene vedtas på andelseiermøte med 3/4 flertall. Bilbrukskontrakten kan endres av styret med simpelt flertall, men legges også frem på andelseiermøtet for vedtak.
 

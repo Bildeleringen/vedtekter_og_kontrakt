@@ -1,3 +1,4 @@
-exclude: README.md
-title: Bildeleringen - Vedtekter og bilbrukskontrakt
+exclude:
+  - README.md
+title: Bildeleringen SA
 description: Her har Bildelringen SA sine vedtekter og bilbrukskontrakt
