@@ -1,6 +1,6 @@
 
 VEDTEKTER for Bildeleringen SA
-================================================================================
+==============================
 
 _Vedtatt ved ordinært andelseiermøte 28. april 2016_
 
@@ -86,11 +86,11 @@ Ved tvister mellom andelseiere og Bildeleringen er Bergen forliksråd / Bergen t
 
 Disse vedtektene kan endres ved 2/3 flertall på et andelseiermøte såfremt forslag til endringer er ført opp på innkalling til møtet og tilkjennegjort andelseierne senest 14 dager før andelseiermøtet. Vedtektsendringer som innebærer:
 
-- 1. vesentlige endringer av formålsparagrafen,
-- 2. mer tyngende hefteregler for medlemmene,
-- 3. skjerping i plikten til å gjøre innskudd i foretaket,
-- 4. innføring av omsetningsplikt med foretaket eller vesentlig skjerping av slik plikt, eller
-- 5. avgrensinger i retten til å tre ut,
+1. vesentlige endringer av formålsparagrafen,
+2. mer tyngende hefteregler for medlemmene,
+3. skjerping i plikten til å gjøre innskudd i foretaket,
+4. innføring av omsetningsplikt med foretaket eller vesentlig skjerping av slik plikt, eller
+5. avgrensinger i retten til å tre ut,
 
 Krever tilslutning fra minst fire femdeler av de avgitte stemmene. Medlemmer som har stemt i mot vedtektsendringer etter punkt 1-5 har rett til å tre ut av andelslaget i tråd med reglene i Samvirkelova §54-3.
 
