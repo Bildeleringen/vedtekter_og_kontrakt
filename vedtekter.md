@@ -2,7 +2,7 @@
 VEDTEKTER for Bildeleringen SA
 ==============================
 
-_Vedtatt ved ordinært andelseiermøte 25. april 2017_
+_Vedtatt ved ordinært andelseiermøte 24. april 2019_
 
 ## 1. ORGANISASJON ##
 
@@ -18,28 +18,25 @@ kalenderår.
 
 ## 2. FORMÅL ##
 
-Laget skal bidra til å redusere antall biler og bilbruk generelt i samfunnet.
-Laget skal i størst mulig grad ta miljøhensyn i hele sin virksomhet.
-Bildeleringens formål er så langt mulig å dekke andelseiernes behov for
-privatbil i form av å bruke felles, fortrinnsvis leasede, eller eide biler på
-rimeligste måte. Bildeleringen kan også eie eller engasjere seg i andre
-aktiviteter eller anlegg som er i samsvar med dette formålet. Bildeleringen kan
-ansette personell etter styrets godkjennelse og som styret finner ønskelig.
-Bildeleringen vil i utgangspunktet basere seg på nye eller pent brukte biler.
+Bildeleringens formål er så langt som mulig å dekke andelseiernes behov for bil,
+i form av å bruke felles biler på en rimelig måte. Laget skal bidra til å
+redusere antall biler og bilbruk generelt i samfunnet. Laget skal i størst mulig
+grad ta miljøhensyn i hele sin virksomhet.
+
+Bildeleringen kan også eie eller engasjere seg i andre aktiviteter eller anlegg
+som er i samsvar med dette formålet.
 
 ## 3. MEDLEMSKAP ##
 
 ### 3a. PRIVATMEDLEMSKAP ###
 
-Medlemskap i Bildeleringen er åpent for alle som er over 20 år og som ikke
-tidligere har blitt nektet forsikringsdekning for bil av et forsikringsselskap.
-Personer dømt evt. gitt påtaleunnlatelse for overtredelse av vegtrafikkloven §
-22 kan kun bli medlemmer etter styrets godkjennelse. Hver andelseier tegner en
-andel, men står fritt til å tegne seg for flere. Ved utmelding går andelen
-tilbake til bildeleringen og andelsinnskuddet tilbakebetales. Andelsinnskuddet
-er kr. 6.000. I tillegg kreves et depositum for bilbruk på Kr. 1.000. Innskudd
-og depositum betales tilbake ved utmelding og forrentes ikke. Bildeleringen kan
-også kreve ekspedisjonsgebyr ved inn- og utmelding og en månedlig medlemsavgift.
+Medlemskap i Bildeleringen er åpent for alle som er over 18 år og har gyldig
+førerkort for bil. Hver andelseier tegner en andel, men står fritt
+til å tegne seg for flere. Ved utmelding går andelen tilbake til bildeleringen
+og andelsinnskuddet tilbakebetales. Andelsinnskuddet er kr. 500. I tillegg kan
+det kreves et depositum for bilbruk som fastsettes av styret. Innskudd og
+depositum betales tilbake ved utmelding og forrentes ikke. Bildeleringen kan
+også kreve ekspedisjonsgebyr ved inn- og utmelding og en medlemsavgift.
 
 Hver andel gir rett til bruk av to biler samtidig. Andelseier er ansvarlig for
 all bilbruk tilknyttet andelen og alle økonomiske forpliktelser som følger av
@@ -50,28 +47,29 @@ denne, uavhengig av sjåfør.
 Medlemskap i Bildeleringen er også åpent for bedrifter etter konkret avtale.
 Hver bedrift tegner en andel, men står fritt til å tegne seg for flere. Ved
 utmelding går andelen tilbake til bildeleringen og andelsinnskuddet
-tilbakebetales. Andelsinnskuddet er kr. 6.000. I tillegg kreves et depositum for
-bilbruk på Kr. 1.000. Innskudd og depositum betales tilbake ved utmelding og
-forrentes ikke. Bildeleringen kan også kreve ekspedisjonsgebyr ved inn- og
-utmelding og en månedlig medlemsavgift.
+tilbakebetales. Andelsinnskuddet er kr. 500. I tillegg kan det kreves et
+depositum for bilbruk som fastsettes av styret. Innskudd og depositum betales
+tilbake ved utmelding og forrentes ikke. Bildeleringen kan også kreve
+ekspedisjonsgebyr ved inn- og utmelding og en månedlig medlemsavgift.
 
-Hver andel gir rett til bruk av to biler samtidig. Bedrifter kan, etter styrets
-godkjenning og mot økt medlemsavgift, gis tilgang til flere samtidige biler.
-Bedriften er ansvarlig for all bilbruk tilknyttet andelen og alle økonomiske
-forpliktelser som følger av denne, uavhengig av sjåfør.
+Hver andel gir rett til bruk det antall biler som fastsettes av styret etter
+konkret vurdering. Styret kan pålegge bedriften en medlemsavgift og bestemme
+øvrige betingelser for bedriftsmedlemskapet. Bedriften er ansvarlig for all
+bilbruk tilknyttet andelen og alle økonomiske forpliktelser som følger av denne,
+uavhengig av sjåfør.
 
 ## 4. RETTIGHETER OG PLIKTER ##
 
-Hver andel i Bildeleringen gir andelseieren rett å bruke Bildeleringens biler
-til de på enhver tid fastsatte priser og i henhold til gjeldende
-bilbrukskontrakt. Bilbrukskontrakten regulerer Bildeleringens og andelseiers
-rettigheter og forpliktelser og kan endres av styret eller av andelseiermøtet
-med simpelt flertall. Styret kan ikke vedta endringer i bilbrukskontrakten som
-vesentlig endrer medlemmenes plikter i Bildeleringen, jamfør §13 andre ledd pkt.
-2-5. Andelseier er ansvarlig for bilen og utgifter som følger bruken av denne
-under leietiden, uavhengig av hvem som disponerte bilen. Andelseier er også
-erstatningspliktig for påførte skader. Andelseier betaler for bilbruken i
-henhold til Bildeleringens til enhver tid gjeldende priser.
+Hver andel i Bildeleringen gir andelseieren rett å bruke Bildeleringens biler i
+henhold til gjeldende bilbrukskontrakt. Bilbrukskontrakten regulerer
+Bildeleringens og andelseiers rettigheter og forpliktelser og kan endres av
+styret eller av andelseiermøtet med simpelt flertall. Styret kan ikke vedta
+endringer i bilbrukskontrakten som vesentlig endrer medlemmenes plikter i
+Bildeleringen, jamfør §13 andre ledd pkt. 2-5. Andelseier er ansvarlig for bilen
+og utgifter som følger bruken av denne under leietiden, uavhengig av hvem som
+disponerte bilen. Andelseier er også erstatningspliktig for påførte skader.
+Andelseier betaler for bilbruken i henhold til Bildeleringens til enhver tid
+gjeldende priser.
 
 ## 5. INNKJØP, DRIFT, VEDLIKEHOLD OG FORSIKRING ##
 
