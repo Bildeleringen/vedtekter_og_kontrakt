@@ -2,7 +2,7 @@
 VEDTEKTER for Bildeleringen SA
 ==============================
 
-_Vedtatt ved ordinært andelseiermøte 24. april 2019_
+_Vedtatt ved ordinært andelseiermøte 27. mai 2020_
 
 ## 1. ORGANISASJON ##
 
@@ -50,7 +50,7 @@ utmelding går andelen tilbake til bildeleringen og andelsinnskuddet
 tilbakebetales. Andelsinnskuddet er kr. 500. I tillegg kan det kreves et
 depositum for bilbruk som fastsettes av styret. Innskudd og depositum betales
 tilbake ved utmelding og forrentes ikke. Bildeleringen kan også kreve
-ekspedisjonsgebyr ved inn- og utmelding og en månedlig medlemsavgift.
+ekspedisjonsgebyr ved inn- og utmelding og en medlemsavgift.
 
 Hver andel gir rett til bruk det antall biler som fastsettes av styret etter
 konkret vurdering. Styret kan pålegge bedriften en medlemsavgift og bestemme
