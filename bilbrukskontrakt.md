@@ -1,7 +1,7 @@
 BILBRUKSKONTRAKT, Bildeleringen SA
 ==================================
 
-_Vedtatt ved ordinært andelseiermøte 24. april 2019_
+_Vedtatt ved ordinært andelseiermøte 27. mai 2020_
 
 Bilbrukskontrakten regulerer forholdet mellom andelseier / sjåfør og
 Bildeleringen. Brudd på Bilbrukskontrakten kan føre til sanksjoner fra
@@ -14,11 +14,9 @@ Bildeleringen, i henhold til §11 i Bildeleringens vedtekter.
 2
 
 - a.   Andelseier gis adgang til å reservere biler i hht gjeldende instruks.
-- b.   Gyldig avbestilling skjer senest 48 timer før leieforholdet starter.
-  Bildeleringen kan i særskilte tilfelle fravike denne regelen.
-- c.   I utgangspunktet er det” først i tid” -prinsippet som gjelder. Foran
+- b.   I utgangspunktet er det” først i tid” -prinsippet som gjelder. Foran
   ferier og ellers når det ansees som hensiktsmessig, kan Bildeleringen
-  likebehandler bestillinger som er er gjort innen en på forhånd annonsert
+  likebehandle bestillinger som er er gjort innen en på forhånd annonsert
   tidsfrist.
 
 ## LEIEBETINGELSER ##
@@ -80,19 +78,22 @@ andelseier.
 lufttrykk, oljestand m.m.
 
 12 Bilen returneres forsvarlig rengjort og med minst kvart tank til samme sted
-som den ble hentet fra. Barnesetet skal plasseres i bagasjerommet etter bruk.
-Bildeleringen SA bruker kortsystem for all bilrelatert handel (drivstoff, olje,
-vask, spylervæske, vindusviskergummi, pærer og tilsvarende). Utgifter som ikke
-dekkes av kortet refunderes av Bildeleringen etter dokumentasjon.
+som den ble hentet fra. Bildeleringen SA bruker kortsystem for all bilrelatert
+handel (drivstoff, olje, vask, spylervæske, vindusviskergummi, pærer og
+tilsvarende). Utlegg til drivstoff eller andre bilrelaterte utgifter som
+drivstoff, olje, vask, spylervæske, vindusviskergummi og pærer refunderes av
+bildeleringen etter dokumentasjon.
 
-13 Dersom andelshaver / sjåfør forlater bilen i en tilstand som er til ulempe
+13 Barnesetet skal plasseres i bagasjerommet etter bruk.
+
+14 Dersom andelshaver / sjåfør forlater bilen i en tilstand som er til ulempe
 for neste bruker, kreves gebyr etter enhver tid gjeldende satser. Eksempler på
 dette kan være at bruker henter bilen for tidlig, returnerer bilen for sent, tar
 feil bil, bruker bil uten gyldig bestilling, forlater bilen med lys etc på slik
 at batteriet blir utladet, eller etterlater bilen uforholdsmessig skitten eller
 luktende.
 
-14 Dyr kan kun transporteres i varebil eller i bur i lastedelen av biler der
+15 Dyr kan kun transporteres i varebil eller i bur i lastedelen av biler der
 dyretransport er tillatt. Bestillingssystemet angir for hvilke biler
 dyretransport er tillatt. Andelseier er forpliktet til en forsvarlig rengjøring
 av bilen etter dyretransport.
