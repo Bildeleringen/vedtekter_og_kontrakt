@@ -1,12 +1,13 @@
 Vedtekter og kontrakt
 =====================
 
-Dette repositoriet holder vedtektene og bilbrukskontrakten til Bildeleringen SA
-i Norge. Vedtektene og Bilbrukskontrakten publiseres på GitHub pages:
+Dette repositoriet holder vedtekter, bilbrukskontrakt og personvernserklæring
+til Bildeleringen SA i Norge. Dokumentene publiseres på GitHub pages:
 
 * [Innholdsside](https://bildeleringen.github.io/vedtekter_og_kontrakt/)
 * [Vedtekter](https://bildeleringen.github.io/vedtekter_og_kontrakt/vedtekter)
 * [Kontrakt](https://bildeleringen.github.io/vedtekter_og_kontrakt/bilbrukskontrakt)
+* [Personvernserklæring](https://bildeleringen.github.io/vedtekter_og_kontrakt/personvernserklaring)
 
 ## Prosedyre
 
