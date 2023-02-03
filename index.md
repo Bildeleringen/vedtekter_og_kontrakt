@@ -5,6 +5,7 @@ På disse sidene finner du gjeldende vedtekter for Bildeleringen SA, samt gjelde
 
 * [Vedtekter](vedtekter.md)
 * [Bilbrukskontrakt](bilbrukskontrakt.md)
+* [Personvernerklæring](personvarnerklaring.md)
 
 Vedtektene og bilbrukskontrakten er hostet på GitHub. Hvis du besøker selve GitHub-prosjektet, kan du følge endringer på dokumentene tilbake i tid. Dette kan også bli en måte å foreslå vedtektsendringer på en mer transparent måte.
 
