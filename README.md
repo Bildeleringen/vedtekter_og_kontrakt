@@ -7,7 +7,7 @@ til Bildeleringen SA i Norge. Dokumentene publiseres på GitHub pages:
 * [Innholdsside](https://bildeleringen.github.io/vedtekter_og_kontrakt/)
 * [Vedtekter](https://bildeleringen.github.io/vedtekter_og_kontrakt/vedtekter)
 * [Kontrakt](https://bildeleringen.github.io/vedtekter_og_kontrakt/bilbrukskontrakt)
-* [Personvernserklæring](https://bildeleringen.github.io/vedtekter_og_kontrakt/personvernserklaring)
+* [Personvernserklæring](https://bildeleringen.github.io/vedtekter_og_kontrakt/personvarnerklaring)
 
 ## Prosedyre
 
