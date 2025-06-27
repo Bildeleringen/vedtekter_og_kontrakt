@@ -8,8 +8,7 @@ personopplysninger om deg. Nedenfor finner du derfor informasjon om
 personopplysninger som samles inn, hvorfor vi gjør dette og dine rettigheter
 knyttet til behandlingen av personopplysningene.
 
-Behandlingsansvarlig for personopplysningene vi behandler er Bilparaplyen AS
-ved daglig leder Arne Krogh Riise.
+Behandlingsansvarlig for personopplysningene vi behandler er Bilparaplyen AS.
 
 ## Kontaktinformasjon
 
@@ -85,6 +84,7 @@ cookies til dette. Vi benytter oss av følgende databehandlere per i dag:
   faktureringsdata for å forbedre bildeleringens tjenester for medlemmene.
 * Vipps: Betalinger gjort med Vipps lagres i Vipps
 
+Data kan også deles til forskningsformål. 
 All behandling av personopplysninger som vi foretar skjer innenfor
 EU/EØSområdet.
 
